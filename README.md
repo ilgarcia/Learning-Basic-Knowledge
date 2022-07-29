@@ -1,7 +1,12 @@
+<div width="100%" align="center">
+  <img src="img/Banner.png" alt="Título">
+</div>
+<div width="100%" align="center">
+  <img src="img/BasicKnowledge.jpg" alt="Título">
+</div>
+
 # Learning-Basic-Knowledge
-This is the foundation to my programmer career, i'm reviewing the basics and sharing with everybody.
-
-
+This is the foundation of my programmer career, I'm reviewing the basics and sharing with everyone my personal development here on Github.
 
 # :books: Quotes
 
